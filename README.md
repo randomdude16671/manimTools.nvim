@@ -29,4 +29,3 @@
 
 - `:ManimRender` – Render a given scene  
 - `:ManimOpenPreview` – Open preview (default previewer is VLC)
-```
