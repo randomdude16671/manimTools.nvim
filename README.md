@@ -1,0 +1,1 @@
+# manimTools.nvim
