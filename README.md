@@ -29,3 +29,6 @@
 
 - `:ManimRender` – Render a given scene  
 - `:ManimOpenPreview` – Open preview (default previewer is VLC)
+
+### Notice: 
+This plugin is not under majority right now. Its development is slowed. Only bugs will be fixed if mentioned in issues.  
